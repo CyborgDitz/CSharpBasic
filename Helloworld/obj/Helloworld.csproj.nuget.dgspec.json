@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\Helloworld\\Helloworld.csproj": {}
+    "C:\\Projects\\CSharpBasic\\Helloworld\\Helloworld.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\Helloworld\\Helloworld.csproj": {
+    "C:\\Projects\\CSharpBasic\\Helloworld\\Helloworld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\Helloworld\\Helloworld.csproj",
+        "projectUniqueName": "C:\\Projects\\CSharpBasic\\Helloworld\\Helloworld.csproj",
         "projectName": "Helloworld",
-        "projectPath": "C:\\Projects\\Helloworld\\Helloworld.csproj",
+        "projectPath": "C:\\Projects\\CSharpBasic\\Helloworld\\Helloworld.csproj",
         "packagesPath": "C:\\Users\\sebba\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\Helloworld\\obj\\",
+        "outputPath": "C:\\Projects\\CSharpBasic\\Helloworld\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sebba\\AppData\\Roaming\\NuGet\\NuGet.Config"
